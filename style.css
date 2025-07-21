@@ -1,0 +1,55 @@
+
+
+body {
+ background-image: url(https://i.pinimg.com/originals/9b/6b/4d/9b6b4dd97a65e67080182eb746656642.gif);
+ 
+}
+
+img
+{
+
+ width: 300px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+
+div {
+
+ background-color: rgb(242, 227, 227);
+width: 500px;
+padding: 45px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+border-radius: 25px;
+border: solid black;
+}
+
+h1 {
+
+ text-align: center;
+ font-size: 26px;
+ 
+}
+
+input {
+ width: 210px;
+ height: 20px;
+ margin: 10px;
+}
+
+/* Botão de converter */
+button {
+
+ margin-top: 20px;
+ height: 50px;
+ border-radius: 10px;
+ width:99%;
+ border: none;
+ font-size: 16px;
+ background: #08a78a;
+ color: white;
+ cursor: pointer;
+}
